@@ -1,0 +1,7 @@
+outputPosition	2
+spiralAngle	137.5
+spiralPosition	3
+spiralScale	1.0
+floretsPosition	1
+totalFlorets	24
+showSpiral	20

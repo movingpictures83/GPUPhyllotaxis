@@ -1,0 +1,2 @@
+Prefix plugins/GPUPhyllotaxis/example
+Plugin GPUPhyllotaxis inputfile parameters.txt outputfile florets.txt
